@@ -1,0 +1,7 @@
+.carousel-item {
+  max-height: calc(100vh - 90px);
+}
+
+body {
+  overflow-x: hidden;
+}
